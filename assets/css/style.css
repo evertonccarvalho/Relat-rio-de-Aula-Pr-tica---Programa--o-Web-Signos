@@ -1,0 +1,27 @@
+body {
+	background-color: #f8f9fa; /* Cor de fundo suave */
+}
+
+.container {
+	border-radius: 8px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	padding: 20px;
+	background-color: #ffffff; /* Fundo branco para o container */
+}
+
+h1 {
+	color: #007bff; /* Cor primária do Bootstrap */
+}
+
+h2 {
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+.lead {
+	font-size: 1.25rem; /* Tamanho de fonte maior para a descrição */
+}
+
+.btn-lg {
+	width: 100%; /* Botão ocupa toda a largura */
+}
